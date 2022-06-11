@@ -1,0 +1,10 @@
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\bin\Debug\Server.exe.config
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\bin\Debug\Server.exe
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\bin\Debug\Server.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\bin\Debug\Employee.dll
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\bin\Debug\Employee.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\obj\Debug\Server.exe
+D:\Lập trình mạng\Lab 4\Câu 4.2\Server\Server\obj\Debug\Server.pdb

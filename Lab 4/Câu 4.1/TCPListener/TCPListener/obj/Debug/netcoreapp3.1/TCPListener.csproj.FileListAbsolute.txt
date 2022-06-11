@@ -1,0 +1,14 @@
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.exe
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.deps.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.runtimeconfig.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.runtimeconfig.dev.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.AssemblyInfoInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.AssemblyInfo.cs
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPListener\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\bin\Debug\Client.exe.config
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\bin\Debug\Client.exe
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\bin\Debug\Client.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\bin\Debug\Employee.dll
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\bin\Debug\Employee.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\obj\Debug\Client.exe
+D:\Lập trình mạng\Lab 4\Câu 4.2\Client\Client\obj\Debug\Client.pdb

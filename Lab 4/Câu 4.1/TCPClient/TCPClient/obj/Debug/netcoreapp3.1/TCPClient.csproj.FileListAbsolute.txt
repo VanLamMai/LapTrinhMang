@@ -1,0 +1,14 @@
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache

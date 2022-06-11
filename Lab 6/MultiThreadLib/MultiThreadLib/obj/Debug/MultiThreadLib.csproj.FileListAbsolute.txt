@@ -1,0 +1,6 @@
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\bin\Debug\MultiThreadLib.dll
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\bin\Debug\MultiThreadLib.pdb
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\obj\Debug\MultiThreadLib.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\obj\Debug\MultiThreadLib.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\obj\Debug\MultiThreadLib.dll
+D:\Lập trình mạng\Lab 6\MultiThreadLib\MultiThreadLib\obj\Debug\MultiThreadLib.pdb

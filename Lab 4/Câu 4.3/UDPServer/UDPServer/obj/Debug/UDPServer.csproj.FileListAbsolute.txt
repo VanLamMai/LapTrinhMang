@@ -1,0 +1,10 @@
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\bin\Debug\Employee.dll
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\bin\Debug\Employee.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CopyComplete
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+D:\Lập trình mạng\Lab 4\Câu 4.3\UDPServer\UDPServer\obj\Debug\UDPServer.pdb

@@ -1,0 +1,14 @@
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.genruntimeconfig.cache

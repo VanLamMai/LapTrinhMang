@@ -1,0 +1,14 @@
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.exe
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.deps.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.dev.json
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfoInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfo.cs
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.dll
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.pdb
+D:\Lập trình mạng\Lab 4\Câu 4.1\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.genruntimeconfig.cache
